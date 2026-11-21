@@ -7,11 +7,11 @@ Soy desarrollador Full Stack Junior, con experiencia en proyectos académicos y 
 
 Este portafolio presenta mis habilidades, tecnologías y proyectos.
 
-## 🌐 Portafolio en línea
+## Portafolio en línea
 
 **[Visitar mi portafolio](https://mi-portafolio-pi-opal.vercel.app/)**
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - React
 - JavaScript
@@ -20,7 +20,7 @@ Este portafolio presenta mis habilidades, tecnologías y proyectos.
 - Motion
 - Lucide React
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
 ### FitPass
 Sistema de gestión de gimnasios desarrollado en equipo.
@@ -50,7 +50,7 @@ Aplicación móvil para la gestión de movimientos financieros personales.
 
 [Ver repositorio](https://github.com/JosueVasque/pdm2026e-equipo-3-cajasegura)
 
-## 🚀 Ejecutar el portafolio localmente
+## Ejecutar el portafolio localmente
 
 ### Requisitos
 - Node.js
@@ -84,7 +84,7 @@ npm run dev
 
 Abrir la dirección local indicada en la terminal.
 
-## 📬 Contacto
+## Contacto
 
 - **GitHub:** https://github.com/JohanRRod
 - **LinkedIn:** https://www.linkedin.com/in/johan-m%C3%A9ndez-90602a235/
